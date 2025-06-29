@@ -7,3 +7,5 @@
   <img src="https://img.shields.io/badge/Jetson%20Orin%20Nano-76B900?style=flat&logo=nvidia&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 </p>
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kseojinn)
