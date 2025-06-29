@@ -30,9 +30,3 @@
 - 🧠 Notion 포트폴리오: [your-portfolio.notion.site](https://your-portfolio.notion.site)
 
 ---
-
-### 🧭 Motto
-
-> “제약된 시스템에서 최고의 성능을 끌어내고,  
-> 더 나은 삶의 질을 위한 AI를 상상하고 구현하다.”
-
