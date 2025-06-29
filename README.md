@@ -1,10 +1,3 @@
-<h1 align="center">Hi, Nice 👋</h1>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
-</p>
-
----
 
 ### ⚙️ Tech Stack
 
@@ -20,13 +13,5 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/> 
 <img src="https://img.shields.io/badge/ONNX-005CED?style=flat&logo=onnx&logoColor=white"/>
 <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat&logo=huggingface&logoColor=black"/>
-
----
-
-### 📫 Contact
-
-- ✉️ Email: your.email@gmail.com  
-- 📝 Blog: [your-blog.tistory.com](https://your-blog.tistory.com)  
-- 🧠 Notion 포트폴리오: [your-portfolio.notion.site](https://your-portfolio.notion.site)
 
 ---
