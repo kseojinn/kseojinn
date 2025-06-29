@@ -8,4 +8,4 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 </p>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kseojinn)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseojinn&layout=compact&theme=chartreuse-dark"/>
