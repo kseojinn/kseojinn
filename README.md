@@ -13,4 +13,6 @@
   
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseojinn&layout=compact&theme=chartreuse-dark"/>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kseojinn&layout=compact&theme=chartreuse-dark"/>
+</p>
