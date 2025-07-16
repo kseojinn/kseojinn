@@ -12,9 +12,3 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
   
 </p>
-
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=kseojinn&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kseojinn&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=kseojinn&theme=merko&hide_border=true&background=FFFFFF00">
-</p>
