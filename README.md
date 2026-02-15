@@ -1,7 +1,3 @@
-<p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Seojin%20Kang&fontSize=90&animation=fadeIn&fontAlignY=38&descAlignY=51&descAlign=62"/>
-</p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Edge Device-76B900?style=flat&logo=nvidia&logoColor=white"/>
